@@ -1,0 +1,31 @@
+_repo: Adan-y-Eva-en-el-paraiso_66626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eça de Queirós, José María
+    aliases:
+    - Queiroz, Jose Maria Eca de
+    - Queirós, José Maria Eça de
+    - Queiros, Jose Maria Eca de
+    - Queiroz, José Maria Eça de
+    - Queiroz, Eca de
+    - Queiroz, Eça de
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '4852'
+    url: http://www.gutenberg.org/2009/agents/4852
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queir%C3%B3s
+    - https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
+description: ''
+gutenberg_issued: '2021-10-29'
+identifiers:
+  gutenberg: '66626'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Adán y Eva en el paraíso
+url: http://www.gutenberg.org/ebooks/66626
