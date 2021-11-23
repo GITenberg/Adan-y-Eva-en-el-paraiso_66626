@@ -1,5 +1,8 @@
 _repo: Adan-y-Eva-en-el-paraiso_66626
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66626-h/images/cover.jpg
 creator:
   author:
     agent_name: Eça de Queirós, José María
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queir%C3%B3s
     - https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66626#Adan-y-Eva-en-el-paraiso
 gutenberg_issued: '2021-10-29'
 identifiers:
   gutenberg: '66626'
